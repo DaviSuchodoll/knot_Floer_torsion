@@ -1,3 +1,20 @@
 README
 
---- this is a useless README ---
+This Repository holds the supporting data for the paper THE TORSION ORDER IN KNOT FLOER HOMOLOGY IS MULTIPLICATIVE
+FOR L-SPACE KNOTS UNDER CABLING by David Suchodoll. 
+
+The code is included in main.ipynb 
+
+The following files are from [BBK+]: 
+  3genus.csv
+  L_space_status.csv
+  bridge_index.csv
+
+The following files are from [LM]:
+  knotinfo.csv
+
+
+[BBK+] Kenneth L. Baker, Jan P. Bohl, Marc Kegel, Duncan McCoy, Leo Mousseau, David Suchodoll, and Nicolas Weiss, 
+      knot invariants of the snappy census knots, in preparation.
+
+[LM] C. Livingston and A. H. Moore, KnotInfo: Table of Knot Invariants, knotinfo.math.indiana.edu, today's date (eg. May 22, 2025). 
